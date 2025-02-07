@@ -11,7 +11,7 @@ This is a **text-based Super Mario game** inspired by *Super Mario Odyssey*. The
 - **Endgame Stats:** At the end of the game, your final stats, including the number of Power Moons collected, are displayed.  
 
 ## **How to Play**  
-1. Follow the storyline as Mario explores different kingdoms.  
+1. Follow the storyline as Mario or as Luigi and explore different kingdoms.  
 2. Participate in mini-games to progress through each kingdom.  
 3. Win battles to unlock new areas and move closer to the final showdown with Bowser.  
 4. Reach the end and see how well you did based on your collected Power Moons!  
